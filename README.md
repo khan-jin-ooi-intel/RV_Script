@@ -1,4 +1,7 @@
-# RV_Script
-- to pull preliminary historic unit data for Reject Validation Purposes
+### RV_Script
+- To Pull Preliminary Unit Data for Reject Validation Purposes
 
-# How to Use
+### Prerequisites 
+- `pandas` Library
+
+### How to Use

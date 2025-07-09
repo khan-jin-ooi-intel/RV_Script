@@ -1,5 +1,5 @@
 ### <ins>Description</ins>
-- To Pull Preliminary Unit Data for Reject Validation Purposes
+- To pull preliminary unit data for reject validation purposes
 
 ### <ins>Prerequisites</ins> 
 - `Python`  <sub>( ... require user installation )</sub>

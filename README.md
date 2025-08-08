@@ -8,7 +8,24 @@
 ### <ins>How to Use</ins>
 1) Save all 3 files into your desired path <sup>( python, batch and xlsx )</sup>
 2) Configure the Format File <sup>(xlsx)</sup> accordingly to the [steps here](ConfiguringTheFormatFile.md)   (First time users will need to do this, others can skip)
-3) Configure and Run the Batch file
+3) Configure and Run the Batch file (Specifically on the "input arguments" section)
+<img width="550" height="140" alt="image" src="https://github.com/user-attachments/assets/bc955576-cd3c-41e9-b807-01377f9eb7c2" />
+
+### <ins>Using python script indivually<ins>
+- reccommended to use run using provided Batch File 
+
+| Flag | Required / Optional | Remark |
+| - | - | - |
+| --inputfile | Required | path to input file (raw data file pulled from Aqua in csv format) |
+| --outputfile | Required | path to place output file |
+| --format | Required | path to `'format'` file |
+| --vid | Required | list of comma-seperated VIDs to pull for |
+| --locn | Required | list of comma-seperated locations/sockets to pull for | 
+| --dump | Optional | Enabling this flag will print out all corresponding values for all defined tokens in a seperate sheet | 
+
+- example cmd line
+  
+<pre><code>python RV_prelimauto_v2.4.1.py --inputfile "input file path" --outputfile "output file path" --format "format file path" --vid "VID1,VID2,VID3,VID4" --locn "6261,6212,5242,5243"</code></pre>
 
 ### <ins>Self-Help</ins>
 >My output table shows "Duplicates Found, Please Optimize Keywords", how can I resolve this?

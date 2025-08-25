@@ -11,7 +11,7 @@
 3) Configure and Run the Batch file (Specifically on the "input arguments" section)
 <img width="550" height="140" alt="image" src="https://github.com/user-attachments/assets/bc955576-cd3c-41e9-b807-01377f9eb7c2" />
 
-### <ins>Using python script indivually<ins>
+### <ins>Using python script individually<ins>
 - reccommended to use run using provided Batch File 
 
 | Flag | Required / Optional | Remark |

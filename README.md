@@ -6,7 +6,7 @@
 - `Pandas` <sub>( ... automatically installed with use of batch file )</sub>
 
 ### <ins>How to Use</ins>
-1) Save all 3 files into your desired path <sup>( python, batch and xlsx )</sup>
+1) Clone Directory to Desired Path
 2) Configure the Format File <sup>(xlsx)</sup> accordingly to the [steps here](ConfiguringTheFormatFile.md)   (First time users will need to do this, others can skip)
 3) Configure and Run the Batch file (Specifically on the "input arguments" section)
 <img width="550" height="140" alt="image" src="https://github.com/user-attachments/assets/bc955576-cd3c-41e9-b807-01377f9eb7c2" />

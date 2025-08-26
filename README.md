@@ -30,7 +30,7 @@
 ### <ins>Self-Help</ins>
 | Problem | Example | Solution |
 | - | - | - |
-| 1. My output table shows "Duplicates Found, Please Optimize Keywords", how can I resolve this? | <img width="338" height="181" alt="image" src="https://github.com/user-attachments/assets/a7b892d8-4eb2-4d5d-80ec-9c0c0360acef" /> | console will point to the token (blue) and all matches (red) based on the "Keywords" & "Exclude_Keywords" defined in the Format File, thus optimize your parameters accordingly  <img width="951" height="151" alt="image" src="https://github.com/user-attachments/assets/dae2441a-4b2f-4ab3-9753-5e91600deac1" /> |
+| 1. My output table shows "Duplicates Found, Please Optimize Keywords", how can I resolve this? | <img width="338" height="181" alt="image" src="https://github.com/user-attachments/assets/a7b892d8-4eb2-4d5d-80ec-9c0c0360acef" /> | Console will point to the token (blue) and all matches (red) based on the "Keywords" & "Exclude_Keywords" defined in the Format File, thus optimize your parameters accordingly  <img width="951" height="151" alt="image" src="https://github.com/user-attachments/assets/dae2441a-4b2f-4ab3-9753-5e91600deac1" /> |
 | 2. The raw data (csv) file does not contain the data I'm looking for, what can I do? | - | Modify this line in the batch file to point to your customized aqua report <img width="1700" height="25" alt="image" src="https://github.com/user-attachments/assets/a5fc9d79-9832-482b-b28b-6b783eb384e7" /> |
 
 
